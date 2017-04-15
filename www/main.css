@@ -1,0 +1,22 @@
+@import url(https://github.com/kancheng/css-tool-haoye/blob/master/css/haoye-font.css);
+
+#home-txtbg {
+  max-height:516px;
+  width:100%;
+  text-align:center;
+  background-color: #428BCA;
+  background-repeat: repeat-x;
+  background-position: center;
+}
+
+#home-txtct {
+  font-size:120px;
+  margin-bottom:0;
+  color:#fdfdfd;
+}
+
+#home-micttxt {
+  font-weight : 200px;
+  font-size : 17px;
+  color : #fdfdfd;
+}
