@@ -1,7 +1,6 @@
 set.seed(929)
 
 library(shiny)
-library(RMySQL)
 library(ggplot2)
 
 # SERVER R File & Object
